@@ -1,2 +1,2 @@
-# data_visualization
+# stocks_project
  
