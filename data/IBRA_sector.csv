@@ -1,0 +1,202 @@
+ticker;name;sector;sub_industry
+AERI3;AERIS;Industrials;Specialty Industrial Machinery
+ARML3;ARMAC;Industrials;Rental & Leasing Services
+KEPL3;KEPLER WEBER;Industrials;Farm & Heavy Construction Machinery
+MILS3;MILLS;Industrials;Rental & Leasing Services
+ROMI3;ROMI;Industrials;Industrial Distribution
+TASA4;TAURUS ARMAS;Industrials;Aerospace & Defense
+WEGE3;WEG;Industrials;Specialty Industrial Machinery
+EMBR3;EMBRAER;Industrials;Aerospace & Defense
+POMO4;MARCOPOLO;Industrials;Farm & Heavy Construction Machinery
+RAPT4;RANDON PART;Industrials;Farm & Heavy Construction Machinery
+RCSL3;RECRUSUL;Industrials;Specialty Industrial Machinery
+TUPY3;TUPY;Consumer Cyclical;Auto Parts
+GGPS3;GPS;Consumer Cyclical;Personal Services
+SEQL3;SEQUOIA LOG;Industrials;Integrated Freight & Logistics
+VLID3;VALID;Industrials;Specialty Business Services
+AZUL4;AZUL;Industrials;Airlines
+CCRO3;CCR SA;Industrials;Infrastructure Operations
+ECOR3;ECORODOVIAS;Industrials;Infrastructure Operations
+GOLL4;GOL;Industrials;Airlines
+HBSA3;HIDROVIAS;Industrials;Integrated Freight & Logistics
+LOGN3;LOG-IN;Industrials;Marine Shipping
+RAIL3;RUMO S.A.;Industrials;Railroads
+STBP3;SANTOS BRP;Industrials;Marine Shipping
+TGMA3;TEGMA;Industrials;Trucking
+PTBL3;PORTOBELLO;Industrials;Building Products & Equipment
+INTB3;INTELBRAS;Technology;Communication Equipment
+MLAS3;MULTILASER;Technology;Electronics & Computer Distribution
+POSI3;POSITIVO TEC;Technology;Computer Hardware
+BRFS3;BRF SA;Consumer Defensive;Packaged Foods
+CAML3;CAMIL;Consumer Defensive;Packaged Foods
+JALL3;JALLESMACHAD;Consumer Defensive;Packaged Foods
+JBSS3;JBS;Consumer Defensive;Packaged Foods
+MDIA3;M.DIASBRANCO;Consumer Defensive;Packaged Foods
+MRFG3;MARFRIG;Consumer Defensive;Packaged Foods
+BEEF3;MINERVA;Consumer Defensive;Farm Products
+SMTO3;SAO MARTINHO;Consumer Defensive;Confectioners
+ABEV3;AMBEV S/A;Consumer Defensive;Beverages—Brewers
+ASAI3;ASSAI;Consumer Defensive;Grocery Stores
+CRFB3;CARREFOUR BR;Consumer Defensive;Food Distribution
+GMAT3;GRUPO MATEUS;Consumer Cyclical;Department Stores
+PCAR3;P.ACUCAR-CBD;Consumer Cyclical;Department Stores
+NTCO3;GRUPO NATURA;Consumer Defensive;Household & Personal Products
+TTEN3;3TENTOS;Basic Materials;Agricultural Inputs
+AGRO3;BRASILAGRO;Consumer Defensive;Farm Products
+RAIZ4;RAIZEN;Utilities;Utilities—Renewable
+SLCE3;SLC AGRICOLA;Consumer Defensive;Farm Products
+AMER3;AMERICANAS;Consumer Cyclical;Internet Retail
+ARZZ3;AREZZO CO;Consumer Cyclical;Footwear & Accessories
+CEAB3;CEA MODAS;Consumer Cyclical;Specialty Retail
+ESPA3;ESPACOLASER;Consumer Cyclical;Personal Services
+SBFG3;GRUPO SBF;Consumer Cyclical;Specialty Retail
+SOMA3;GRUPO SOMA;Consumer Cyclical;Apparel Retail
+GUAR3;GUARARAPES;Consumer Cyclical;Apparel Retail
+AMAR3;LOJAS MARISA;Consumer Cyclical;Apparel Retail
+LREN3;LOJAS RENNER;Consumer Cyclical;Department Stores
+MGLU3;MAGAZ LUIZA;Consumer Cyclical;Specialty Retail
+PETZ3;PETZ;Consumer Cyclical;Specialty Retail
+LJQQ3;QUERO-QUERO;Consumer Cyclical;Specialty Retail
+VIIA3;VIA;Consumer Cyclical;Specialty Retail
+ALPA4;ALPARGATAS;Consumer Cyclical;Footwear & Accessories
+GRND3;GRENDENE;Consumer Cyclical;Footwear & Accessories
+TECN3;TECHNOS;Consumer Cyclical;Luxury Goods
+VIVA3;VIVARA S.A.;Consumer Cyclical;Luxury Goods
+VULC3;VULCABRAS;Consumer Cyclical;Footwear & Accessories
+MYPK3;IOCHP-MAXION;Consumer Cyclical;Auto Parts
+LEVE3;METAL LEVE;Consumer Cyclical;Auto Parts
+CURY3;CURY S/A;Real Estate;Real Estate—Development
+CYRE3;CYRELA REALT;Consumer Cyclical;Residential Construction
+DIRR3;DIRECIONAL;Real Estate;Real Estate—Development
+EVEN3;EVEN;Real Estate;Real Estate—Development
+EZTC3;EZTEC;Real Estate;Real Estate—Development
+GFSA3;GAFISA;Consumer Cyclical;Residential Construction
+HBOR3;HELBOR;Real Estate;Real Estate Services
+JHSF3;JHSF PART;Real Estate;Real Estate—Diversified
+LAVV3;LAVVI;Real Estate;Real Estate Services
+MRVE3;MRV;Consumer Cyclical;Residential Construction
+TEND3;TENDA;Real Estate;Real Estate—Development
+TRIS3;TRISUL;Real Estate;Real Estate Services
+MEAL3;IMC S/A;Consumer Cyclical;Restaurants
+ZAMP3;ZAMP S.A.;Consumer Cyclical;Restaurants
+CVCB3;CVC BRASIL;Consumer Cyclical;Travel Services
+SMFT3;SMART FIT;Consumer Cyclical;Leisure
+ANIM3;ANIMA;Consumer Defensive;Education & Training Services
+COGN3;COGNA ON;Consumer Defensive;Education & Training Services
+RENT3;LOCALIZA;Industrials;Rental & Leasing Services
+MOVI3;MOVIDA;Industrials;Rental & Leasing Services
+SEER3;SER EDUCA;Consumer Defensive;Education & Training Services
+VAMO3;VAMOS;Industrials;Rental & Leasing Services
+YDUQ3;YDUQS PART;Consumer Defensive;Education & Training Services
+ALSO3;ALIANSCSONAE;Real Estate;Real Estate Services
+BRML3;BR MALLS PAR;Real Estate;Real Estate Services
+BRPR3;BR PROPERT;Real Estate;Real Estate Services
+IGTI11;IGUATEMI S.A;Industrials;Conglomerates
+LOGG3;LOG COM PROP;Real Estate;Real Estate—Diversified
+MULT3;MULTIPLAN;Real Estate;Real Estate Services
+SYNE3;SYN PROP TEC;Real Estate;Real Estate—Diversified
+SIMH3;SIMPAR;Industrials;Conglomerates
+ABCB4;ABC BRASIL;Financial Services;Banks—Regional
+BPAN4;BANCO PAN;Financial Services;Banks—Regional
+BRSR6;BANRISUL;Financial Services;Banks—Regional
+BBDC3;BRADESCO;Financial Services;Banks—Regional
+BBDC4;BRADESCO;Financial Services;Banks—Regional
+BBAS3;BRASIL;Financial Services;Banks—Regional
+BPAC11;BTGP BANCO;Financial Services;Capital Markets
+ITSA4;ITAUSA;Financial Services;Banks—Regional
+ITUB3;ITAUUNIBANCO;Financial Services;Banks—Regional
+ITUB4;ITAUUNIBANCO;Financial Services;Banks—Regional
+MODL3;MODALMAIS;Financial Services;Banks—Regional
+SANB11;SANTANDER BR;Financial Services;Banks—Regional
+BBSE3;BBSEGURIDADE;Financial Services;Insurance—Diversified
+CXSE3;CAIXA SEGURI;Financial Services;Insurance—Diversified
+IRBR3;IRBBRASIL RE;Financial Services;Insurance—Reinsurance
+PSSA3;PORTO SEGURO;Financial Services;Insurance—Diversified
+SULA11;SUL AMERICA;Financial Services;Insurance—Life
+WIZS3;WIZ S.A.;Financial Services;Insurance Brokers
+B3SA3;B3;Financial Services;Financial Data & Stock Exchanges
+BOAS3;BOA VISTA;Financial Services;Credit Services
+CIEL3;CIELO;Technology;Software—Infrastructure
+CLSA3;CLEARSALE;Technology;Software—Infrastructure
+GETT11;GETNET BR;Technology;Software—Infrastructure
+RANI3;IRANI;Consumer Cyclical;Packaging & Containers
+DXCO3;DEXCO;Basic Materials;Lumber & Wood Production
+KLBN11;KLABIN S/A;Basic Materials;Paper & Paper Products
+SUZB3;SUZANO S.A.;Basic Materials;Paper & Paper Products
+BRAP3;BRADESPAR;Financial Services;Asset Management
+BRAP4;BRADESPAR;Financial Services;Asset Management
+CBAV3;CBA;Basic Materials;Aluminum
+CMIN3;CSNMINERACAO;Basic Materials;Steel
+VALE3;VALE;Basic Materials;Other Industrial Metals & Mining
+BRKM5;BRASKEM;Basic Materials;Chemicals
+FHER3;FER HERINGER;Basic Materials;Agricultural Inputs
+UNIP6;UNIPAR;Basic Materials;Chemicals
+FESA4;FERBASA;Basic Materials;Steel
+GGBR4;GERDAU;Basic Materials;Steel
+GOAU4;GERDAU MET;Basic Materials;Steel
+CSNA3;SID NACIONAL;Basic Materials;Steel
+USIM3;USIMINAS;Basic Materials;Steel
+USIM5;USIMINAS;Basic Materials;Steel
+RRRP3;3R PETROLEUM;Energy;Oil & Gas E&P
+CSAN3;COSAN;Energy;Oil & Gas Refining & Marketing
+DMMO3;DOMMO;Energy;Oil & Gas E&P
+ENAT3;ENAUTA PART;Energy;Oil & Gas E&P
+OPCT3;OCEANPACT;Industrials;Specialty Business Services
+PETR3;PETROBRAS;Energy;Oil & Gas Integrated
+PETR4;PETROBRAS;Energy;Oil & Gas Integrated
+RECV3;PETRORECSA;Energy;Oil & Gas E&P
+PRIO3;PETRORIO;Energy;Oil & Gas E&P
+UGPA3;ULTRAPAR;Energy;Oil & Gas Refining & Marketing
+VBBR3;VIBRA;Consumer Cyclical;Specialty Retail
+BLAU3;BLAU;Healthcare;Drug Manufacturers—Specialty & Generic
+PNVL3;DIMED;Healthcare;Drug Manufacturers—General
+HYPE3;HYPERA;Healthcare;Drug Manufacturers—Specialty & Generic
+PGMN3;PAGUE MENOS;Healthcare;Pharmaceutical Retailers
+RADL3;RAIADROGASIL;Healthcare;Pharmaceutical Retailers
+AALR3;ALLIAR;Healthcare;Diagnostics & Research
+DASA3;DASA;Healthcare;Diagnostics & Research
+FLRY3;FLEURY;Healthcare;Diagnostics & Research
+HAPV3;HAPVIDA;Financial Services;Insurance—Specialty
+PARD3;IHPARDINI;Healthcare;Diagnostics & Research
+MATD3;MATER DEI;Healthcare;Medical Care Facilities
+ODPV3;ODONTOPREV;Healthcare;Healthcare Plans
+ONCO3;ONCOCLINICAS;Healthcare;Medical Care Facilities
+QUAL3;QUALICORP;Healthcare;Healthcare Plans
+RDOR3;REDE D OR;Healthcare;Medical Care Facilities
+BMOB3;BEMOBI TECH;Communication Services;Entertainment
+ENJU3;ENJOEI;Consumer Cyclical;Internet Retail
+IFCM3;INFRACOMM;Industrials;Specialty Business Services
+LWSA3;LOCAWEB;Technology;Software—Infrastructure
+CASH3;MELIUZ;Communication Services;Internet Content & Information
+NGRD3;NEOGRID;Technology;Software—Application
+SQIA3;SINQIA;Technology;Software—Application
+TRAD3;TC;Technology;Software—Application
+TOTS3;TOTVS;Technology;Software—Application
+DESK3;DESKTOP;Communication Services;Telecom Services
+VIVT3;TELEF BRASIL;Communication Services;Telecom Services
+TIMS3;TIM;Communication Services;Telecom Services
+AMBP3;AMBIPAR;Industrials;Waste Management
+CSMG3;COPASA;Utilities;Utilities—Regulated Water
+ORVR3;ORIZON;Industrials;Waste Management
+SBSP3;SABESP;Utilities;Utilities—Regulated Water
+SAPR11;SANEPAR;Utilities;Utilities—Regulated Water
+AESB3;AES BRASIL;Utilities;Utilities—Renewable
+ALUP11;ALUPAR;Utilities;Utilities—Renewable
+AURE3;AUREN;Utilities;Utilities—Renewable
+CMIG3;CEMIG;Utilities;Utilities—Diversified
+CMIG4;CEMIG;Utilities;Utilities—Diversified
+CPLE3;COPEL;Utilities;Utilities—Diversified
+CPLE6;COPEL;Utilities;Utilities—Diversified
+CPFE3;CPFL ENERGIA;Utilities;Utilities—Regulated Electric
+ELET3;ELETROBRAS;Utilities;Utilities—Regulated Electric
+ELET6;ELETROBRAS;Utilities;Utilities—Regulated Electric
+ENBR3;ENERGIAS BR;Utilities;Utilities—Renewable
+ENGI11;ENERGISA;Utilities;Utilities—Renewable
+ENEV3;ENEVA;Utilities;Utilities—Diversified
+EGIE3;ENGIE BRASIL;Utilities;Utilities—Regulated Electric
+EQTL3;EQUATORIAL;Utilities;Utilities—Regulated Electric
+LIGT3;LIGHT S/A;Utilities;Utilities—Renewable
+NEOE3;NEOENERGIA;Utilities;Utilities—Regulated Electric
+MEGA3;OMEGAENERGIA;Utilities;Utilities—Renewable
+TAEE11;TAESA;Utilities;Utilities—Regulated Electric
+TRPL4;TRAN PAULIST;Utilities;Utilities—Independent Power Producers
