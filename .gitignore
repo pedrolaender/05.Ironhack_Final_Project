@@ -154,3 +154,4 @@ cython_debug/
 Estudos.docx
 *.env
 PBI_stocks_project.pbix
+*.pbix
