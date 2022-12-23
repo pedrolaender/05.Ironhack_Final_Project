@@ -102,22 +102,22 @@
   Having both datasets ready to work we uploaded it to SQL.
 
   <p align="center" width="100%">
- <img width="20%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
+ <img width="70%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
   </p>
 
   <p align="center" width="100%">
- <img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/06.%20sql%20historical.PNG?raw=true">
+ <img width="85%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/06.%20sql%20historical.PNG?raw=true">
   </p>
 
   <p align="center" width="100%">
- <img width="50%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/07.%20sql%20companies.PNG?raw=true">
+ <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/07.%20sql%20companies.PNG?raw=true">
   </p>
   
 ### Automating Historical Dataset Update
 
   Now that we have the main dataset, we have to make a way to uptade it automatically. For that we separeted the data gathering, cleaning, tranforming and appending steps in functions to be run automatically every day. The sequence of the process is decribed below:
   
-<img align="right" width="25%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
+<img align="right" width="80%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
 
   - Link to database (SQL)
   - Search last update date
