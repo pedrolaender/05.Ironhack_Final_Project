@@ -77,7 +77,7 @@
   Once the analysis proposed in this project rely on the company's activity sector, it is the most important characteristic to be gathered. To standardize the sectors, we got it from Yahoo Finance website by webscrapping, both for brazilian and american companies. By doing this we got the dataset as shown below.
 
 <p align="center" width="100%">
-<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/01.%20features%20before.png?raw=true">
+<img width="80%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/01.%20features%20before.png?raw=true">
 </p>
 
   Besides the sector, we found important to add some other features, so after checking the integrity of the already gathered data we add some other informations about the companies as if it is Perennial (yes/no), the Country, Type (company/index) and group the sectors to fit in the perennial sectors describe above, because it was to specific. After this cleaning and transforming we got a dataset as shown below.
