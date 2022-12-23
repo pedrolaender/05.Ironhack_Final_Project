@@ -105,13 +105,15 @@
   Having both datasets ready to work we uploaded it to SQL.
 
   <p align="center" width="100%">
- <img width="50%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
+ <img width="35%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
   </p>
 
+  Historical Dataset
   <p align="center" width="100%">
  <img width="85%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/06.%20sql%20historical.PNG?raw=true">
   </p>
 
+  Characteritics Dataset
   <p align="center" width="100%">
  <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/07.%20sql%20companies.PNG?raw=true">
   </p>
