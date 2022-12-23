@@ -166,11 +166,11 @@
 
   Analyzing the dashboard, we were able to begin to answer the questions that guided this project:
 
-  ***Do the stock prices of companies in perennial sectors behave differently from companies in other sectors in periods of crisis?***
+  - ***Do the stock prices of companies in perennial sectors behave differently from companies in other sectors in periods of crisis?***
 
   **Answer:** No, the main hypoteses that perennial sector company's stock price behave diferently than non-perennial in period of crisis is discarded. Regarding to the price, all sectors analysed follow the same pattern, they acompany the main indexes of the country. The difference we could observe is the scale in wich this variations happens. The non-perennial sectors have a bigger variation.
 
-  ***Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the stock exchange?***
+  - ***Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the stock exchange?***
 
   **Answer:** It is a good start once the volatility of perennial sectors is lower than other sectors, but can't be the only thing taken into account, once "Bad Companies" compensate the growing price of "Good Companies". So analysing the image below we can see that a portifolio following Barsi's ideal (*light blue with Barsi label*) is the one having the best growing in the long term. 
 
