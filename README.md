@@ -160,7 +160,7 @@
 </p>
 
 ## Conclusion
-  There are countless possibilities when it comes to improve a predict model. With the approach followed in this project we achieved our goal by getting a RMSE of 845,09 on Rick's Diamond Dataset.
+  Regarding to the price, all sectors analysed follow the same pattern, the acompany the main indexes of the country. The difference we could observe is the scale in wich this variations happen. The non perennial sectors have a bigger variation.
   
 ## Contact
 
