@@ -10,7 +10,7 @@
   This is the final project of the Ironhack's Data Analytics Bootcamp - Oct/2022. The objective of this project is to compare the stock prices of companies that belong to perennial sector and those that do not in periods of crises, both in Brazil and United States.
 ## Introduction
 
-  <img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/Barsi%20-%20rev1.png?raw=true">
+  <img width="25%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/Barsi%20-%20rev1.png?raw=true">
   
   Luiz Barsi Filho is the biggest single investor in Brazil with a fortune estimated of R$ 4 billions. His strategy is to build a monthly income portfolio and is based in 4 main fundamentals:
   
@@ -94,7 +94,7 @@
   After cleaning we ended with a dataset as shown below. It contains near to 5 millions entries.
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/04.%20historiacal%20after.png?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/04.%20historiacal%20after.png?raw=true">
 </p>
 
 ### Uploading to SQL
@@ -102,7 +102,7 @@
   Having both datasets ready to work we uploaded it to SQL.
 
   <p align="center" width="100%">
- <img width="70%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
+ <img width="50%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/05.%20sql%20tables%20.PNG?raw=true">
   </p>
 
   <p align="center" width="100%">
