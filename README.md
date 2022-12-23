@@ -94,7 +94,7 @@
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/03%20historical%20before.png?raw=tru">
 </p>
 
-  After cleaning we ended with a dataset as shown below. It contains near to 5 millions entries.
+  After cleaning we ended up with a dataset as shown below. It contains near to 5 millions entries.
 
 <p align="center" width="100%">
 <img width="75%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/04.%20historiacal%20after.png?raw=true">
