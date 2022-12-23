@@ -94,7 +94,7 @@
   After cleaning we ended with a dataset as shown below. It contains near to 5 millions entries.
 
 <p align="center" width="100%">
-<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/04.%20historiacal%20after.png?raw=true">
+<img width="75%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/04.%20historiacal%20after.png?raw=true">
 </p>
 
 ### Uploading to SQL
@@ -139,18 +139,22 @@
 
   The next pages show a line graphic that contains a reference index and the behavior of the mean price of stocks of two sectors considered perennial and two that are not, both for Brazil and USA. The analysis were made considering two periods of time 2019-2022 and 2012-2022 as shown below.
   
+  Brazil 2019-2020
 <p align="center" width="100%">
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/10.%20brasil%202019.PNG?raw=true">
 </p>
 
+Brazil 2012-2020
 <p align="center" width="100%">
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/11.%20brasil%202012.PNG?raw=true">
 </p>
 
+USA 2019-2020
 <p align="center" width="100%">
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/12.%20eua%202019.PNG?raw=true">
 </p>
 
+USA 2012-2020
 <p align="center" width="100%">
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/13.%20eua%202012.PNG?raw=true">
 </p>
