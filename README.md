@@ -117,7 +117,7 @@
 
   Now that we have the main dataset, we have to make a way to uptade it automatically. For that we separeted the data gathering, cleaning, tranforming and appending steps in functions to be run automatically every day. The sequence of the process is decribed below:
   
-<img align="right" width="50%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
+<img align="right" width="55%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
 
   - Link to database (SQL)
   - Search last update date
