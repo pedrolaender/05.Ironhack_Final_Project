@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""/>
+  <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/00%20home%20-edited.jpg?raw=true"/>
 </p>
 
 # Final Project
