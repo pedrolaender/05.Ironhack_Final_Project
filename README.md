@@ -127,7 +127,7 @@
   - Add to main database
 
 
-### Visualization and Analysis
+## Visualization and Analysis
 
   In order to make the analysis we elaborate a Power BI Dashboard.
 
