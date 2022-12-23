@@ -27,9 +27,12 @@
 
   **<ins>Good Projects:</ins>** Companies that presents good projects for the future.
 
-
-
 ### Business Question
+  
+  Knowing that, we wondered two things:
+  - Do the stock prices of companies in perennial sectors behave differently from companies in other sectors in periods of crisis?
+  - Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the stock exchange?
+
 
 ### Technologies 
 
@@ -160,13 +163,24 @@
 </p>
 
 ## Conclusion
-  Regarding to the price, all sectors analysed follow the same pattern, the acompany the main indexes of the country. The difference we could observe is the scale in wich this variations happen. The non perennial sectors have a bigger variation.
+
+  Analyzing the dashboard, we were able to begin to answer the questions that guided this project:
+
+  ***Do the stock prices of companies in perennial sectors behave differently from companies in other sectors in periods of crisis?***
+
+  **Answer:** No, the main hypoteses that perennial sector company's stock price behave diferently than non-perennial in period of crisis is discarded. Regarding to the price, all sectors analysed follow the same pattern, they acompany the main indexes of the country. The difference we could observe is the scale in wich this variations happens. The non-perennial sectors have a bigger variation.
+
+  ***Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the stock exchange?***
+
+  **Answer:** It is a good start once the volatility of perennial sectors is lower than other sectors, but can't be the only thing taken into account, once "Bad Companies" compensate the growing price of "Good Companies". So analysing the image below we can see that a portifolio following Barsi's ideal (*light blue with Barsi label*) is the one having the best growing in the long term. 
+
+  <p align="center" width="100%">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/11.%20brasil%202012.PNG?raw=true">
+</p>
+
   
 ## Contact
 
   Pedro Laender
   
   Github - (https://github.com/pedrolaender)
- 
-
- 
