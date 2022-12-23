@@ -170,9 +170,9 @@
 
   **Answer:** No, the main hypoteses that perennial sector company's stock price behave diferently than non-perennial in period of crisis is discarded. Regarding to the price, all sectors analysed follow the same pattern, they acompany the main indexes of the country. The difference we could observe is the scale in wich this variations happens. The non-perennial sectors have a bigger variation.
 
-  - ***Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the stock exchange?***
+  - ***Is taking into account only the fact that they operate in perennial sectors of the economy a good filter for choosing stocks on the Stock Market?***
 
-  **Answer:** It is a good start once the volatility of perennial sectors is lower than other sectors, but can't be the only thing taken into account, once "Bad Companies" compensate the growing price of "Good Companies". So analysing the image below we can see that a portifolio following Barsi's ideal (*light blue with Barsi label*) is the one having the best growing in the long term. 
+  **Answer:** It is a good start once the volatility of perennial sectors is lower than other sectors, but can't be the only thing taken into account, once "Bad Companies" compensate the growing price of "Good Companies". So, analysing the image below we can see that a portifolio following Barsi's ideal (*light blue with Barsi label*) is the one having the best growing in the long term, wich indicates that having a good solid strategy enables good gains in the Stock Market 
 
   <p align="center" width="100%">
 <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/11.%20brasil%202012.PNG?raw=true">
