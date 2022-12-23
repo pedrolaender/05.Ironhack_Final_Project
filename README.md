@@ -10,7 +10,7 @@
   This is the final project of the Ironhack's Data Analytics Bootcamp - Oct/2022. The objective of this project is to compare the stock prices of companies that belong to perennial sector and those that do not in periods of crises, both in Brazil and United States.
 ## Introduction
 
-  <img width="10%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/Barsi%20-%20rev1.png?raw=true">
+  <img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/Barsi%20-%20rev1.png?raw=true">
   
   Luiz Barsi Filho is the biggest single investor in Brazil with a fortune estimated of R$ 4 billions. His strategy is to build a monthly income portfolio and is based in 4 main fundamentals:
   
@@ -74,13 +74,13 @@
   Once the analysis proposed in this project rely on the company's activity sector, it is the most important characteristic to be gathered. To standardize the sectors, we got it from Yahoo Finance website by webscrapping, both for brazilian and american companies. By doing this we got the dataset as shown below.
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/01.%20features%20before.png?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/01.%20features%20before.png?raw=true">
 </p>
 
   Besides the sector, we found important to add some other features, so after checking the integrity of the already gathered data we add some other informations about the companies as if it is Perennial (yes/no), the Country, Type (company/index) and group the sectors to fit in the perennial sectors describe above, because it was to specific. After this cleaning and transforming we got a dataset as shown below.
 
 <p align="center" width="100%">
-<img  width="40%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/02.%20features%20after.png?raw=true">
+<img  width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/02.%20features%20after.png?raw=true">
 </p>
 
 ### Company's Stock Price Historical Series Dataset
@@ -88,7 +88,7 @@
   The company's historical series were also gathered from Yahoo Finance, but through the API this time, once this ways makes getting the information easyer and saves a lot o processing time. The raw dataset after getting the data had some nulls and outlier as seen in the image below.
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/03%20historical%20before.png?raw=tru">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/03%20historical%20before.png?raw=tru">
 </p>
 
   After cleaning we ended with a dataset as shown below. It contains near to 5 millions entries.
