@@ -117,7 +117,7 @@
 
   Now that we have the main dataset, we have to make a way to uptade it automatically. For that we separeted the data gathering, cleaning, tranforming and appending steps in functions to be run automatically every day. The sequence of the process is decribed below:
   
-<img align="right" width="80%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
+<img align="right" width="55%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/08.%20functions.png?raw=true">
 
   - Link to database (SQL)
   - Search last update date
@@ -134,25 +134,25 @@
   The first page presents an exploratory analysis of the data in wich we can see that it is unbalanced with regard to the number of companies that belong to perennial sectors and thoose that do not. I was already as expected once we have only 5 sector considered perennial. Another thing importante to be considered is that the number of companies grow through the years.
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/09.%20exploratory%20analysis.PNG?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/09.%20exploratory%20analysis.PNG?raw=true">
 </p>
 
   The next pages show a line graphic that contains a reference index and the behavior of the mean price of stocks of two sectors considered perennial and two that are not, both for Brazil and USA. The analysis were made considering two periods of time 2019-2022 and 2012-2022 as shown below.
   
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/10.%20brasil%202019.PNG?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/10.%20brasil%202019.PNG?raw=true">
 </p>
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/11.%20brasil%202012.PNG?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/11.%20brasil%202012.PNG?raw=true">
 </p>
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/12.%20eua%202019.PNG?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/12.%20eua%202019.PNG?raw=true">
 </p>
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/13.%20eua%202012.PNG?raw=true">
+<img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/13.%20eua%202012.PNG?raw=true">
 </p>
 
 ## Conclusion
