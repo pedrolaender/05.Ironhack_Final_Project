@@ -134,7 +134,7 @@
 
 ## Visualization and Analysis
 
-  In order to make the analysis we elaborate a Power BI Dashboard.
+  In order to make the analysis we elaborate a Power BI Dashboard (https://github.com/pedrolaender).
 
   The first page presents an exploratory analysis of the data in wich we can see that it is unbalanced with regard to the number of companies that belong to perennial sectors and thoose that do not. I was already as expected once we have only 5 sector considered perennial. Another thing importante to be considered is that the number of companies grow through the years.
 
