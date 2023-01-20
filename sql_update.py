@@ -4,9 +4,10 @@ import numpy as np
 import os
 import yfinance as yf
 import datetime
-from flask_sqlalchemy import SQLAlchemy as db
+import sqlalchemy as db
 from dotenv import load_dotenv
 from datetime import timedelta
+
 
 
 def create_engine():
@@ -17,7 +18,7 @@ def create_engine():
     """
     
     # Import sql_password
-    load_dotenv(r'C:\Users\Pedro\OneDrive\Desktop\Ironhack\04. GitHub\stocks_project/password.env')
+    load_dotenv(r'C:\Users\Pedro\OneDrive\Desktop\Ironhack\04. GitHub\05.Ironhack_Final_Project/password.env')
     sql_password = os.getenv('sql_password')
     
     # Set SQL configurations
@@ -60,23 +61,23 @@ def get_start_date(engine):
         start (str): date to be used in 'create_update_dataframe' function
     """
 
-    last_update = pd.read_sql(sql = "SELECT MAX(Date) FROM test_dataset", con=engine)
+    last_update = pd.read_sql(sql = "SELECT MAX(Date) FROM date_test_01", con=engine)
     start = last_update.iloc[0,0]
     start= add_days_to_date(start, 1)
 
     return start
 
-
 def get_end_date():
-    """Get today's date to be used as end date in 'create_update_dataframe' function 
+    """Get yesterdays's date to be used as end date in 'create_update_dataframe' function 
 
     Returns: 
-        today (str): Date string in YYYY-MM-DD format - Today
+        yesterday (str): Date string in YYYY-MM-DD format - Today
     """
     today = datetime.datetime.now()
-    today = today.strftime("%Y-%m-%d")
+    yesterday = today - datetime.timedelta(days = 1)
+    yesterday = yesterday.strftime("%Y-%m-%d")
 
-    return today
+    return yesterday
 
 
 def get_ticker_list(engine):
@@ -108,7 +109,7 @@ def create_update_dataframe(start, end, ticker_list):
     
     df = pd.DataFrame()
 
-    for ticker in ticker_list.loc[0:5]:
+    for ticker in ticker_list:
         aux_df = pd.DataFrame()
         aux_df = yf.Ticker(ticker).history(start=start, end=end)
         aux_df['cod_yfinance'] = ticker
@@ -156,14 +157,14 @@ def append_update_dataframe(dataframe):
         Append update DataFrame to SQL dataset 
     """
 
-    dataframe.to_sql(name='test_dataset', con=engine, if_exists='append', index=False)
+    dataframe.to_sql(name='date_test_02', con=engine, if_exists='append', index=False)
 
 
 engine = create_engine()
 start = get_start_date(engine)
 end = get_end_date()
 ticker_list = get_ticker_list(engine)
-df = create_update_dataframe(start, end, ticker_list)
+df = create_update_dataframe('2023-01-08', end, ['ABMD', 'SULA11.SA', 'BRML3.SA', 'DMMO3.SA', '^GSPC'])
 df = format_update_dataframe(df)
 append_update_dataframe(df)
 
