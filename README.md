@@ -135,8 +135,8 @@
   Besides, it is really important to get track of the code processing, to see if everything has gone as planned. For that reason, a logging system was added to the code. The purpose of this system is to create a record of everything that gone right and wrong during while the update was running.
 
   For every update, a .txt file containing the records of all the processes of the code is created, as shown below:
-    <p align="center" width="55%">
- <img width="100%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/14.%20logging.PNG?raw=true">
+    <p align="center" width="100%">
+ <img width="55%" src="https://github.com/pedrolaender/05.Ironhack_Final_Project/blob/main/Presentation/14.%20logging.PNG?raw=true">
   </p>
 
   This files contains two types of records: **WARNING** that indicates something has gone wrong and **INFO** when the process goes as expected. The image below shows a examples of this records:
