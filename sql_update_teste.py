@@ -81,6 +81,8 @@ def get_start_date(engine, table):
     start = last_update.iloc[0,0]
     start= add_days_to_date(start, 1)
 
+    start = '2023-01-18'
+
     logger.info(f'Get start date: Successful - Start date: {start}')
 
     return start
@@ -95,6 +97,8 @@ def get_end_date():
     today = datetime.datetime.now()
     yesterday = today - datetime.timedelta(days = 1)
     yesterday = yesterday.strftime("%Y-%m-%d")
+
+    yesterday = '2023-01-22'
 
     logger.info(f'Get end date: Successful - End date: {yesterday}')
 
@@ -256,6 +260,7 @@ def append_update_dataframe(dataframe, table):
 
 # Define wich database will get the new data
 table = 'historical_data'
+table_test = 'power_automate_test_1'
 
 engine = create_engine()
 start = get_start_date(engine, table)
@@ -263,6 +268,7 @@ end = get_end_date()
 ticker_list = get_ticker_list(engine)
 df = create_update_dataframe(start, end, ticker_list)
 df = format_update_dataframe(df)
-append_update_dataframe(df, table)
+append_update_dataframe(df, table_test)
 
 logger.info('Done')
+print('Done')
